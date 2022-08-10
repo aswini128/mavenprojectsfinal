@@ -26,7 +26,7 @@
     <groupId>3098</groupId>
     <artifactId>3098</artifactId>
     <version>1</version>
-    <name>Gene Expression Atlas customized for 3098</name>
+    <name>Gene Expression Atlas customized for the project of 3098</name>
     <url>http://www.ebi.ac.uk/gxa</url>
     <packaging>war</packaging>
 
