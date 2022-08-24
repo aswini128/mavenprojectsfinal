@@ -38,6 +38,19 @@
             <type>war</type>
         </dependency>
     </dependencies>
+	
+	<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>arif-virtual-machine-releases</name>
+        <url>http://192.168.152.129:8081/artifactory/mymvn-mymvn</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>arif-virtual-machine-snapshots</name>
+        <url>http://192.168.152.129:8081/artifactory/mymvn-mymvn</url>
+    </snapshotRepository>
+</distributionManagement>
 
     <repositories>
 	    <repository>
